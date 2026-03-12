@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Robust MSA: measure of sampling adequacy"
+authors:
+  - family-names: Lorenzo-Seva
+    given-names: Urbano
+  - family-names: Tonge
+    given-names: Natasha
+
+orcid: https://orcid.org/XXXX
+version: 1.0.0
+date-released: 2026-03-12
