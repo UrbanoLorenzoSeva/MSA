@@ -18,3 +18,5 @@ Packages: None
 
 ## Run
 source("RobustMSA_v2.r")
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18980446.svg)](https://doi.org/10.5281/zenodo.18980446)
